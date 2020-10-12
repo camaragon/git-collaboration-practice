@@ -1,9 +1,4 @@
-README
-README
-README
-README
-README
-README
-README
+# git-collaboration-practice
+
 Why do the Broncos have to suck so bad???
-# git-collaboration-practicd
+At least they're not the JETS!
